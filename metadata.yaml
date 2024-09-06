@@ -1,0 +1,39 @@
+_repo: Three-studies-in-literature_74191
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gates, Lewis E. (Lewis Edwards)
+    birthdate: 1860
+    deathdate: 1924
+    gutenberg_agent_id: '57384'
+    url: http://www.gutenberg.org/2009/agents/57384
+description: '"Originally introductory essays in volumes of selections from the prose
+  writings of Jeffrey, Newman, and Arnold. The essay on Jeffrey has been rewritten
+  and expanded."'
+gutenberg_issued: '2024-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74191'
+  lccn: '99000497'
+language: en
+pgterms:marc904: https://archive.org/details/threestudiesinli00gaterich/page/n7/mode/2up
+pgterms:marc905: 20230201021246gates
+pgterms:marc906: '1899'
+pgterms:marc907: US
+production_note: Aaron Adrignola, Tim Lindell, Chuck Greif and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bThe Macmillan Company, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jeffrey, Francis Jeffrey, Lord, 1773-1850 -- Criticism and interpretation'
+- !lcsh 'Arnold, Matthew, 1822-1888 -- Criticism and interpretation'
+- !lcsh 'Newman, John Henry, Saint, 1801-1890 -- Technique'
+- !lcsh 'English prose literature -- 19th century -- History and criticism'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Francis Jeffrey -- Newman as a prose-writer -- Matthew Arnold.
+title: Three studies in literature
+url: http://www.gutenberg.org/ebooks/74191
