@@ -1,5 +1,8 @@
 _repo: Three-studies-in-literature_74191
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74191-h/images/cover.jpg
 creator:
   author:
     agent_name: Gates, Lewis E. (Lewis Edwards)
@@ -10,6 +13,8 @@ creator:
 description: '"Originally introductory essays in volumes of selections from the prose
   writings of Jeffrey, Newman, and Arnold. The essay on Jeffrey has been rewritten
   and expanded."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74191#Three-studies-in-literature
 gutenberg_issued: '2024-08-05'
 gutenberg_type: Text
 identifiers:
